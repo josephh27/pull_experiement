@@ -48,6 +48,12 @@ S2
 S3
 S4
 
+Food Feature
+F1
+F2
+F3
+F4
+
 Register Feature
 R1
 R2
